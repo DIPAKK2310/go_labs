@@ -21,4 +21,5 @@ func main(){
 	var anotherVariable int
 	fmt.Println(anotherVariable)
 	fmt.Printf("data type of variable is: %T \n", anotherVariable)
+	//Lets go with go lang , vid-6=:11:12
 }
