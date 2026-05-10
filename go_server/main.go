@@ -13,7 +13,7 @@ type Item struct {
 }
 var items = []Item{
 {"1","Dipak Khare"},
-{"2","Khare Dip"},
+{"2","Khare Dipak"},
 }
 
 type Home struct {
