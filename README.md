@@ -9,5 +9,5 @@ Go_Labs<br/>
 |__02-go_server<br/>
 # Clone the repo
 ```bash
-https://github.com/DIPAKK2310
+https://github.com/DIPAKK2310/go_labs
 ```
