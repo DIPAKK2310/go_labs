@@ -11,3 +11,8 @@ Go_Labs<br/>
 ```bash
 https://github.com/DIPAKK2310/go_labs
 ```
+
+## Resouce to learn
+```ts
+https://go.dev/learn/
+```
